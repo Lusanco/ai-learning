@@ -21,6 +21,7 @@ Natural Language Processing (NLP) is a fascinating area of artificial intelligen
 ## Key Concepts
 
 - [Stemming and Lemmatization](./Stemming-and-Lemmatization/README.md)
+- [Count Vectorizer](./Count-Vectorizer/README.md)
 
 
 ## Resources
@@ -30,11 +31,15 @@ Natural Language Processing (NLP) is a fascinating area of artificial intelligen
 - Libraries and Tools
   - Google Colab
   - nltk
+  - numpy
+  - pandas
+  - sklearn
 
 ## Progress Log
 
 - [2024-08-02]: Started the repository
 - [2024-08-02]: Stemming and Lemmatization
+- [2024-08-06]: Count Vectorizer
 
 ---
 
