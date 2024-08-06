@@ -28,6 +28,7 @@ Natural Language Processing (NLP) is a fascinating area of artificial intelligen
 
 - Course Materials
   - Udemy: [Machine Learning: Natural Language Processing in Python (V2)](https://www.udemy.com/course/natural-language-processing-in-python/)
+
 - Libraries and Tools
   - Google Colab
   - nltk
