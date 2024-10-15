@@ -7,10 +7,13 @@ This repository documents my journey into Natural Language Processing (NLP), a k
 
 ## Table of Contents
 
-1. [Introduction to NLP](#introduction-to-nlp)
-2. [Key Concepts](#key-concepts)
-3. [Resources](#resources)
-4. [Progress Log](#progress-log)
+- [NLP-Learning](#nlp-learning)
+  - [About This Repository](#about-this-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction to NLP](#introduction-to-nlp)
+  - [Key Concepts](#key-concepts)
+  - [Resources](#resources)
+  - [Progress Log](#progress-log)
 
 
 ## Introduction to NLP
@@ -41,6 +44,7 @@ Natural Language Processing (NLP) is a fascinating area of artificial intelligen
 - [2024-08-02]: Started the repository
 - [2024-08-02]: Stemming and Lemmatization
 - [2024-08-06]: Count Vectorizer
+- [2024-10-15]: Temporarily paused NLP studies to explore other areas of interest, such as TypeScript and React.
 
 ---
 
