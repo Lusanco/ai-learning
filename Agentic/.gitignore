@@ -184,3 +184,7 @@ cython_debug/
 
 # Ignore .vscode folder
 .vscode/
+
+# Ignore .env file
+.env
+.env*
