@@ -1,0 +1,114 @@
+   
+Contact
+lasc1026@gmail.com
+www.linkedin.com/in/lusanco
+(LinkedIn)
+lusanco.github.io/ (Portfolio)
+Top Skills
+Git
+HTML5
+Web Development
+Languages
+English (Native or Bilingual)
+Spanish (Native or Bilingual)
+Certifications
+AWS Certified Cloud Practitioner
+BusWri2x: Effective Business Writing
+v21.0 Essential Time & Attendance
+for ADP Workforce Now
+BusWri3x: Writing for Social Media
+Responsive Web Design
+Luis Santiago
+Software Developer | Web Developer
+Juana Diaz, Puerto Rico
+Summary
+Hi, I’m Luis Santiago – a passionate Software Developer who loves
+building innovative, user-friendly web applications. I’m always eager
+to learn and grow, and I'm on the lookout for exciting opportunities in
+tech.
+What I Do:  
+- Develop and maintain responsive web applications using
+JavaScript, TypeScript, and modern frameworks.
+- Collaborate with cross-functional teams to build full-stack solutions
+that make an impact.
+What I’m Looking For:
+- New opportunities as a Front End Developer, Software Developer,
+or in any role that challenges me to grow and innovate.
+A Bit About Me:
+- I enjoy solving complex problems, learning new technologies, and
+collaborating with talented teams.
+- I’m a believer in growth, continuous improvement, and making
+technology work for people.
+Get in Touch!
+Feel free to reach out to me at lasc1026@gmail.com or check out my
+portfolio at lusanco.github.io. I’d love to connect and explore how we
+can work together!
+Experience
+ZOMIO Inc.
+4 years 7 months
+Frontend Web Developer
+June 2022 - September 2023 (1 year 4 months)
+  Page 1 of 4   
+Remote
+- Created and redesigned websites and web applications, including deploying
+the company website on HostGator with SSL setup and domain configuration
+for secure performance.
+- Developed MVPs for MQTT-powered dashboards, handling the software side
+and receiving data from MQTT-enabled hardware via a broker.
+- Collaborated with cross-functional teams to deliver high-quality products
+using modern web technologies.
+Administrative Assistant
+March 2019 - June 2022 (3 years 4 months)
+Remote | Barceloneta, PR | Ponce, PR | York, PA 
+- Collaborated with the CEO on organizational strategy and daily operations to
+ensure efficiency.
+- Managed executive calendars, prioritized tasks, and facilitated
+communications across teams.
+- Handled financial documentation, maintained records, and performed minor
+accounting duties.
+Five Below
+Sales Associate
+November 2017 - March 2018 (5 months)
+York, PA
+- Delivered excellent customer service by assisting with inquiries and product
+recommendations.
+- Operated cash register, processed transactions, and handled payments
+accurately.
+- Maintained product displays, restocked merchandise, and ensured store
+cleanliness.
+- Supported loss prevention by reporting security concerns and following
+company policies.
+  Page 2 of 4   
+- Collaborated with team members to achieve store goals and foster a positive
+work environment.
+Dewey University
+Computer Technician Assistant
+January 2017 - July 2017 (7 months)
+Juana Diaz, PR
+- Maintained and cleaned computers across multiple departments, ensuring
+optimal functionality.
+- Installed and updated software, operating systems, and drivers on campus
+computers.
+- Performed regular backups and cloned hard drives to secure data.
+- Assisted with Wi-Fi network maintenance and light repairs on printers and
+computers.
+- Supported inventory management, including assigning static IP addresses to
+devices.
+Dewey University
+Computer Technician Assistant
+January 2015 - November 2015 (11 months)
+Juana Diaz, PR
+- Maintained and cleaned computers across multiple departments, ensuring
+optimal functionality.
+- Installed and updated software, operating systems, and drivers on campus
+computers.
+- Performed regular backups and cloned hard drives to secure data.
+- Assisted with Wi-Fi network maintenance and light repairs on printers and
+computers.
+- Supported inventory management, including assigning static IP addresses to
+devices.
+  Page 3 of 4   
+Education
+Holberton School
+Foundations of Computer Science  · (July 2024)
+  Page 4 of 4
