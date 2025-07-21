@@ -188,3 +188,6 @@ cython_debug/
 # Ignore .env file
 .env
 .env*
+
+# DS_Store
+.DS_Store
